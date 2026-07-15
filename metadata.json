@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Dejando Huellas",
+  "description": "Viajando con mi mejor amigo",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
